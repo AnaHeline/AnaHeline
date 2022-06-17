@@ -1,6 +1,3 @@
-###
-- 🔭 ADS - UNICAMP
-- 🌱 growing to full stack 
 
   <div align="center">
    <a href="https://github.com/AnaHeline">
